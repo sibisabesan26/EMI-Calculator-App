@@ -17,5 +17,5 @@ An Android app built with Jetpack Compose that helps users calculate their month
   - From monthly income
 
 - **Simple UI**  
-  Clean, compact layout optimized for mobile screens—no scrolling required.
+  Clean, compact and simple layout optimized for mobile screens (no scrolling required).
 
