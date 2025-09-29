@@ -19,5 +19,3 @@ An Android app built with Jetpack Compose that helps users calculate their month
 - **Simple UI**  
   Clean, compact layout optimized for mobile screens—no scrolling required.
 
-## How to Run
-
